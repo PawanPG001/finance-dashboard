@@ -1,0 +1,20 @@
+date,description,category,amount,type
+2026-06-01,Paycheck,Salary,3200.00,Income
+2026-06-02,Whole Foods,Groceries,84.32,Expense
+2026-06-03,Netflix,Entertainment,15.99,Expense
+2026-06-05,Electric Bill,Utilities,72.10,Expense
+2026-06-07,Uber,Transport,18.50,Expense
+2026-06-10,Freelance Project,Freelance,450.00,Income
+2026-06-12,Rent,Rent,1200.00,Expense
+2026-06-15,Dinner Out,Dining Out,56.20,Expense
+2026-07-01,Paycheck,Salary,3200.00,Income
+2026-07-02,Trader Joes,Groceries,91.44,Expense
+2026-07-04,Gym Membership,Health,40.00,Expense
+2026-07-06,Gas,Transport,45.00,Expense
+2026-07-12,Rent,Rent,1200.00,Expense
+2026-07-18,Concert Tickets,Entertainment,120.00,Expense
+2026-08-01,Paycheck,Salary,3200.00,Income
+2026-08-02,Costco,Groceries,132.10,Expense
+2026-08-05,Internet Bill,Utilities,60.00,Expense
+2026-08-12,Rent,Rent,1200.00,Expense
+2026-08-20,Flight Tickets,Travel,310.00,Expense
